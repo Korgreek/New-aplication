@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/New-aplication/static/css/main.c922c38e.css",
+    "main.js": "/New-aplication/static/js/main.33a05ddb.js",
+    "static/js/787.b0c27825.chunk.js": "/New-aplication/static/js/787.b0c27825.chunk.js",
+    "static/media/dog-gaac0b4071_1920.jpg": "/New-aplication/static/media/dog-gaac0b4071_1920.01021fb8c39e8e7768d3.jpg",
+    "static/media/animal-g26b813d4f_1920.jpg": "/New-aplication/static/media/animal-g26b813d4f_1920.9d9d564881bf8b737a4c.jpg",
+    "static/media/fernando-jorge-bIW1a6svo1k-unsplash.jpg": "/New-aplication/static/media/fernando-jorge-bIW1a6svo1k-unsplash.fb02c9f8e757a212e56c.jpg",
+    "static/media/anusha-barwa-ppKcYi1CXcI-unsplash.jpg": "/New-aplication/static/media/anusha-barwa-ppKcYi1CXcI-unsplash.bbeb113463b2c85c5b71.jpg",
+    "static/media/megan-lee-ztWBg9IYeug-unsplash.jpg": "/New-aplication/static/media/megan-lee-ztWBg9IYeug-unsplash.e11aedece03eb0f8c2f4.jpg",
+    "static/media/willian-justen-de-vasconcellos-1hBWrLIDSCc-unsplash.jpg": "/New-aplication/static/media/willian-justen-de-vasconcellos-1hBWrLIDSCc-unsplash.cb0db2fdc722a8df802b.jpg",
+    "static/media/alvan-nee-ZCHj_2lJP00-unsplash.jpg": "/New-aplication/static/media/alvan-nee-ZCHj_2lJP00-unsplash.563ba4b3a0841310f65a.jpg",
+    "static/media/logo.svg": "/New-aplication/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/New-aplication/index.html",
+    "main.c922c38e.css.map": "/New-aplication/static/css/main.c922c38e.css.map",
+    "main.33a05ddb.js.map": "/New-aplication/static/js/main.33a05ddb.js.map",
+    "787.b0c27825.chunk.js.map": "/New-aplication/static/js/787.b0c27825.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c922c38e.css",
+    "static/js/main.33a05ddb.js"
+  ]
+}
